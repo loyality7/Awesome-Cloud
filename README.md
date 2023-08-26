@@ -1,5 +1,5 @@
 # Awesome-Cloud
-# Awesome  Hacker Cloud Security 🌩️
+# Awesome Cloud Security 🌩️
 
 A curated list of resources and tools for cloud security. Whether you are a cloud engineer, security professional, or someone interested in understanding and securing cloud environments, this list aims to provide a comprehensive collection of valuable resources to enhance your knowledge and skills in cloud security.
 
@@ -15,7 +15,7 @@ A curated list of resources and tools for cloud security. Whether you are a clou
 - [Cloud Security Communities and Forums](#cloud-security-communities-and-forums)
 - [Cloud Security Providers](#cloud-security-providers)
 
-//Cloud Security Best Practices 📚
+## Cloud Security Best Practices 📚
 
 - [Cloud Security Alliance (CSA) Security Guidance](https://cloudsecurityalliance.org/guidance/) - Comprehensive security guidance documents and best practices for different cloud computing domains and models.
 - [National Institute of Standards and Technology (NIST) Cloud Computing Security](https://www.nist.gov/programs-projects/nist-cloud-computing-security) - NIST's resources on cloud computing security, including guidelines, standards, and reference architectures.
