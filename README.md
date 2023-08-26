@@ -1,5 +1,5 @@
 # Awesome-Cloud
-# Awesome Cloud Security 🌩️
+# Awesome  Hacker Cloud Security 🌩️
 
 A curated list of resources and tools for cloud security. Whether you are a cloud engineer, security professional, or someone interested in understanding and securing cloud environments, this list aims to provide a comprehensive collection of valuable resources to enhance your knowledge and skills in cloud security.
 
