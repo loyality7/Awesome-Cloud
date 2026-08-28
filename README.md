@@ -35,6 +35,7 @@ A curated list of resources and tools for cloud security. Whether you are a clou
 - [OpenSCAP](https://www.open-scap.org/) - An open-source framework for vulnerability management, compliance checking, and security measurement in cloud environments.
 - [CloudSploit](https://cloudsploit.com/) - An open-source security and compliance monitoring tool for AWS, Azure, and GCP.
 - [Security Monkey](https://github.com/Netflix/security_monkey) - An open-source tool for monitoring and analyzing the security of cloud environments.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous AI penetration testing platform: 50+ offensive tools across web, cloud, AD and Kubernetes, self-hosted, the model never receives your real IPs or credentials.
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - A tool for hunting security weaknesses in
 
  Kubernetes clusters.
